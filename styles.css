@@ -1,11 +1,9 @@
 .box{
     width:350px;
     height:220px;
-    margin-top: 15px;
-    margin-left: 10px;
-    margin-bottom: 20px;
-    margin-right: 10px;
-    margin-bottom: 30px;
-    /*outer bottom margin */
-        
+    padding: 15px 10px 20px;
+    margin-bottom:30px;
+    border: 2px red dotted;
+    background-color: green;
+
 }
